@@ -1,0 +1,5 @@
+const container = document.getElementsByClassName("container")
+const images = document.getElementById("img")
+const menu_list = document.querySelectorAll(".menu_list")
+const btn = document.querySelector(".btn")
+console.log(container)
